@@ -69,7 +69,7 @@ Helping users make better purchasing decisions.
 ## 📁 Project Files
 * Power BI Dashboard: `Mobile_Market_Dash.pbix`
 * Dataset: `Dataset/products.csv`
-* Code (Scraping Script): [`code/scrape_data.py`](scrapping_project.ipynb)
+* Code (Scraping Script): [`code/scrape_data.py`](Scrapping_project.ipynb)
 * Screenshots: `Images/` folder
 
 ---
