@@ -9,8 +9,7 @@ An interactive Power BI dashboard analyzing mobile data (price, RAM, and storage
 * Interactive filters (Slicers) for better exploration
 * Analysis of price, RAM, and storage
 * Brand comparison and market insights
-* Mobile comparison tool
-* Clean and user-friendly design
+* Mobile comparison Page.
 
 ---
 
