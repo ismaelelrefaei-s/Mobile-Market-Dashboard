@@ -17,7 +17,7 @@ An interactive Power BI dashboard analyzing mobile data (price, RAM, and storage
 ## 🏠 Home Page
 The home page provides smooth navigation between all dashboard pages.
 
-<img src="images/Home.png" width="700">
+<img src="Images/Home.png" width="700">
 
 ---
 
@@ -33,7 +33,7 @@ The Overview page provides a high-level summary of the mobile market, including:
 * Distribution of network types (2G, 3G, 4G, 5G)
 * Identification of the most expensive brands
 
-<img src="images/Overview.png" width="700">
+<img src="Images/Overview.png" width="700">
 
 ---
 
@@ -48,7 +48,7 @@ This page allows users to select and compare mobile phones based on:
 
 Helping users make better purchasing decisions.
 
-<img src="images/Choos_Mobile.png" width="700">
+<img src="Images/Choos_Mobile.png" width="700">
 
 ---
 
@@ -69,8 +69,8 @@ Helping users make better purchasing decisions.
 ## 📁 Project Files
 * Power BI Dashboard: `Mobile_Market_Dash.pbix`
 * Dataset: `Dataset/products.csv`
-* Code (Scraping Script): [`code/scrape_data.py`](scrapping_project.py)
-* Screenshots: `images/` folder
+* Code (Scraping Script): [`code/scrape_data.py`](scrapping_project.ipynb)
+* Screenshots: `Images/` folder
 
 ---
 
