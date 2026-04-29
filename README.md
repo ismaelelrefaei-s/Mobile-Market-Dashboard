@@ -57,19 +57,17 @@ Helping users make better purchasing decisions.
 ---
 
 ## 🛠️ Tools Used
+* Python BeautifulSoup & requests (for scraping)
+* Power Query For Data Cleaning & Transformation
 * Power BI
-* Python (for data scraping)
-* Data Cleaning & Transformation
 * DAX
-* BeautifulSoup & requests (for scraping)
-
 ---
 
 ## 📁 Project Files
 * Power BI Dashboard: `Mobile_Market_Dash.pbix`
 * Dataset: `Dataset/products.csv`
 * Code (Scraping Script): [`code/scrape_data.py`](Scrapping_project.ipynb)
-* Screenshots: `Images/` folder
+* Screenshots: `Images/`Images
 
 ---
 
